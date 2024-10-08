@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Lua**
 
-<h3 align="left">Connect with me: Synacktiv</h3>
+<h3 align="left">Connect with me: synacktiv_ (Discord)</h3>
 <p align="left">
 </p>
 
